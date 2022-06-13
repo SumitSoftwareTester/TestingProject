@@ -20,6 +20,7 @@ public class General  extends Global{
 		driver.navigate().to(ur);
 		System.out.println("Application Opened");
 		Reporter.log("Application Opened");
+		
 		Log.info("Application Opened");
 		
 	}

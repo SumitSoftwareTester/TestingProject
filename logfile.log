@@ -5,4 +5,8 @@
 2022-05-27 12:44:24,879 INFO  [Log] Application Opened 
 2022-05-27 12:44:29,952 INFO  [Log] Login part done 
 2022-05-27 12:44:31,341 INFO  [Log] Logout part done 
-2022-05-27 12:44:31,544 INFO  [Log] Browser Closed 
+2022-05-27 12:44:31,544 INFO  [Log] Browser Closed 2022-05-30 13:00:30,836 INFO  [Log] Application Opened 
+2022-05-30 13:00:37,091 INFO  [Log] Login part done 
+2022-05-30 13:00:44,126 INFO  [Log] Employee adding has been done 
+2022-05-30 13:00:45,427 INFO  [Log] Logout part done 
+2022-05-30 13:00:45,692 INFO  [Log] Browser Closed 

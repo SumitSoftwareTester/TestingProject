@@ -8,24 +8,30 @@
       <![CDATA[Login part done]]>
     </line>
     <line>
+      <![CDATA[Employee adding has been done]]>
+    </line>
+    <line>
       <![CDATA[Logout part done]]>
     </line>
     <line>
       <![CDATA[Browser Closed]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-05-27T07:14:15Z" name="Default suite" finished-at="2022-05-27T07:14:31Z" duration-ms="15927">
+  <suite started-at="2022-05-30T07:30:18Z" name="Default suite" finished-at="2022-05-30T07:30:45Z" duration-ms="27678">
     <groups>
     </groups>
-    <test started-at="2022-05-27T07:14:15Z" name="Default test" finished-at="2022-05-27T07:14:31Z" duration-ms="15927">
-      <class name="com.hrms.testingscripts.TC_001_Login_Logout">
-        <test-method signature="tc_001()[pri:0, instance:com.hrms.testingscripts.TC_001_Login_Logout@35dab4eb]" started-at="2022-05-27T12:44:15Z" name="tc_001" finished-at="2022-05-27T12:44:31Z" duration-ms="15899" status="PASS">
+    <test started-at="2022-05-30T07:30:18Z" name="Default test" finished-at="2022-05-30T07:30:45Z" duration-ms="27678">
+      <class name="com.hrms.testingscripts.TC_002_Add_Employee">
+        <test-method signature="tc_001()[pri:0, instance:com.hrms.testingscripts.TC_002_Add_Employee@35dab4eb]" started-at="2022-05-30T13:00:18Z" name="tc_001" finished-at="2022-05-30T13:00:45Z" duration-ms="27652" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Application Opened]]>
             </line>
             <line>
               <![CDATA[Login part done]]>
+            </line>
+            <line>
+              <![CDATA[Employee adding has been done]]>
             </line>
             <line>
               <![CDATA[Logout part done]]>
@@ -35,7 +41,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- tc_001 -->
-      </class> <!-- com.hrms.testingscripts.TC_001_Login_Logout -->
+      </class> <!-- com.hrms.testingscripts.TC_002_Add_Employee -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
